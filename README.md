@@ -11,9 +11,12 @@
 * Rust
 * Golang
 * Solana programs/accounts
-* 
 
-### This github will consist of 📕: 
+### Already created here: 
+* Marty Minion, AI Minion, and Marty Tracker bots. 
+* Minion UI on React (moving to Svelte framework).
+
+### This profile will consist of 📕: 
 * Web3 project centered UI. 
 * Mobile Wallet App for Solana users. 
 * Project centered games. 
