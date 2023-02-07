@@ -1,5 +1,5 @@
 ### Howdy 🤠, 
-### My name is Hosty, and I am in my first full year as a Full-Stack developer in my current role at a small communication company located in the US. I am currently working on the Solana blockchain with my project "The Minions" in finding solutions to some of the underlying problems in my own community and beyond. 
+### My name is Hosty, and I am in my first full year as a Full-Stack developer in my current role at a small communication company located in the US. I am currently working on the Solana blockchain with my project **The Minions** in finding solutions to some of the underlying problems in my own community and beyond. My goal is to evenutally work full-time Web3 and contribute to De-Fi protocol on Solana. 
 
 ### Am proficient in 🤓: 
 * Javascript 🛠
@@ -27,5 +27,5 @@
 * Non-Custodial Staking with an eye on personal rewards.
 
 ### Templates to use:
-* Refining before placing here. 
+* Refining before placing here for public use. 
     
