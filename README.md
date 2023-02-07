@@ -22,6 +22,8 @@
 * Project centered games. 
 * Simple web games.
 * A stress on easing the onboarding process for Solana users.
+* Non-Custodial Staking.
+* 
 
 ### Templates to use:
 * Refining before placing on GH. 
