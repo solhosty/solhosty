@@ -7,14 +7,18 @@
 * HTML
 * CSS/SCSS
 
-### On the Dock:
+### On the Dock to learn:
 * Rust
 * Golang
+* Solana programs/accounts
+* 
 
 ### This github will consist of 📕: 
-* Web3 project centered UI
+* Web3 project centered UI. 
 * Mobile Wallet App for Solana users. 
-* Project centered games
+* Project centered games. 
+* Simple web games.
+* A stress on easing the onboarding process for Solana users.
 
 ### Templates to use:
 * Refining before placing on GH. 
