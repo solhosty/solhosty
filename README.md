@@ -1,13 +1,21 @@
 ### Howdy 🤠, 
-### My name is Hosty, and I am in my first full year as a Full-Stack developer in my current role. I am currently working on the Solana blockchain in finding solutions avaialable to the community that rests within my project. 
+### My name is Hosty, and I am in my first full year as a Full-Stack developer in my current role at a small communication company. I am currently working on the Solana blockchain wiht my project "The Minions" in finding solutions to some of the underlying problems in my own community and beyond. 
 
 ### Am proficient in: 
-Javascript
+* Javascript
+* Python 
+* HTML
+* CSS/SCSS
 
-### Plan to learn:
+### On the Dock:
+* Rust
+* Golang
 
-### Plan to work on 📕: 
-     
-### Previous repos:
+### This github will consist of 📕: 
+* Web3 project centered UI
+* Mobile Wallet App for Solana users. 
+* Project centered games
 
-### Am working on: 
+### Templates to use:
+* Refining before placing on GH. 
+    
