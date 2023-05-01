@@ -14,9 +14,11 @@
 
 ### ✅ Already created here: 
 * Marty Minion, AI Minion, and Marty Tracker bots. 
-* Minion UI on React (moving to Svelte framework).
+* Minion UI using React and SvelteKit.
+* Arcade
+* Compression NFT Guide
+* Portfolio Viewer
 * Token Registration.
-* Staking-UI base.
 
 ### 📜 This profile will consist of: 
 * Web3 project centered UI. 
