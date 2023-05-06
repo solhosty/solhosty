@@ -5,7 +5,7 @@
 * Javascript 🛠
 * Python 🐍
 * HTML 👶
-* CSS/SCSS 🕴
+* PHP
 
 ### 📚 On the Dock to learn:
 * Rust
