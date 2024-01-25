@@ -1,5 +1,5 @@
 ### Howdy 🤠, 
-### My name is Hosty, I code a lot.
+### My name is Hunter, I code a lot.
 
 ### 🤓 Am proficient in: 
 * Javascript 🛠
